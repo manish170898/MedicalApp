@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.home.Preventive">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Some Common Diseases"
+        android:textSize="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="40dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/influenza"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100px"
+        android:text="1. Influenza"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/cholera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100px"
+        android:text="2. Cholera"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/typhoid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100px"
+        android:text="3. Typhoid"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/hepitA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100px"
+        android:text="4. Hepatitis A"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/dengue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100px"
+        android:text="5. Dengue"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/gastro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100px"
+        android:text="6. Gastroenteritis"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/malaria"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100px"
+        android:text="6. Malaria"
+        android:textSize="25sp" />
+    <TextView
+        android:id="@+id/viralfever"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100px"
+        android:text="7. Viral Fever"
+        android:textSize="25sp" />
+</LinearLayout>

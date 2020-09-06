@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98006081024",
+    "firebase_url": "https://hackbenchers-e59d4.firebaseio.com",
+    "project_id": "hackbenchers-e59d4",
+    "storage_bucket": "hackbenchers-e59d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98006081024:android:900012ddb4c60f27",
+        "android_client_info": {
+          "package_name": "com.example.hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98006081024-9garhg7luifhomj3agi48243okrfdelj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hack",
+            "certificate_hash": "e6db15727131042db6a6afef6432559c92741ecf"
+          }
+        },
+        {
+          "client_id": "98006081024-ut1ktdr07mkfk1l6qd7rlhpll0m8l3k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLY6xOSKP3cH3VhgziNfdFgvz7Sg69eI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98006081024-ut1ktdr07mkfk1l6qd7rlhpll0m8l3k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
